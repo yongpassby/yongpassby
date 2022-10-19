@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yongpassby;
-- 👀 I’m interested in nothing, which could be a mental health problem😒;
-- 🌱 I’m currently learning C++;//only c++11 for some reason...
+- 👀 I’m interested in this, or that, not sure right now...;
+- 🌱 I’m currently learning C++;  // from c++11 to c++17
 - 💞️ I’m looking to collaborate on anything that I might help as a novice;
 - 📫 How to reach me: yongpassby@foxmail.com;
 
