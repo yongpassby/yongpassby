@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yongpassby;
 - 👀 I’m interested in this, or that, not sure right now...;
-- 🌱 I’m currently learning C++;  // from c++11 to c++17
+- 🌱 I’m currently learning how to not be replaced by LLM and agents.
 - 💞️ I’m looking to collaborate on anything that I might help as a novice;
 - 📫 How to reach me: yongpassby@foxmail.com;
 
